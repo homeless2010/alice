@@ -1,0 +1,10 @@
+{
+    "name": "alice",
+    "description": "alice",
+    "keywords": ["alice"],
+    "env": {
+    },
+    "website": "https://github.com/homeless2010/alice",
+    "repository": "https://github.com/homeless2010/alice",
+    "stack": "container"
+}
